@@ -31,7 +31,7 @@ Geolocation: Browser Geolocation API
 
 Styling: CSS Modules / Tailwind / Styled Components
 
-Backend (optional): JSON Server / Firebase / Supabase (for order persistence)
+Backend:Supabase (coming soon!!!)
 
 📍 Live Demo
 Coming Soon... 🚧
