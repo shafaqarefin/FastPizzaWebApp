@@ -1,11 +1,4 @@
-import { useState } from "react";
-import {
-  Form,
-  redirect,
-  useActionData,
-  useNavigate,
-  useNavigation,
-} from "react-router-dom";
+import { Form, redirect, useActionData, useNavigation } from "react-router-dom";
 import { createOrder } from "../../services/apiRestaurant";
 
 // https://uibakery.io/regex-library/phone-number
