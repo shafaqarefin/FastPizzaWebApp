@@ -25,11 +25,11 @@ Display of estimated delivery time and countdown timer for time remaining.
 Search orders by phone number or order ID.
 
 🛠️ Tech Stack
-Frontend: React (with React Router, Context API or Redux Toolkit)
+Frontend: React (with React Router, Redux Toolkit,React Query)
 
 Geolocation: Browser Geolocation API
 
-Styling: CSS Modules / Tailwind / Styled Components
+Styling:Tailwind CSS
 
 Backend:Supabase (coming soon!!!)
 
